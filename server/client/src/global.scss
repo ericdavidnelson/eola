@@ -1,0 +1,22 @@
+$theme-colors: (
+"primary": #2a7f62ff, 
+"secondary": #134074ff,
+"info": #8da9c4ff,
+"light": #eef4edff,
+"dark": #0b2545ff
+);
+    
+.nav-link {
+    color: #eef4edff;
+}
+
+.StripeElement {
+    min-width: 500px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+@import "~bootstrap/scss/bootstrap"
